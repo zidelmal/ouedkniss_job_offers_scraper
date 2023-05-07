@@ -1,5 +1,5 @@
 # Ouedkniss_Scraper
-While doing my intership at Emploitic SPA, i was asked to scrappe the section **Job Offers** from the site [OuedKniss](https://www.ouedkniss.com/emploi_offres) which is considered one of their compititor.
+While doing my intership at Emploitic SPA, i was asked to scrap the section **Job Offers** from the site [OuedKniss](https://www.ouedkniss.com/emploi_offres) which is considered one of their compititor.
 
 ##  The programming languages and packages
 ### Programming language :
